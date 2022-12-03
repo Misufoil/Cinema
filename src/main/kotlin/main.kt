@@ -1,4 +1,3 @@
-// package cinema
 const val PRICE = 10
 const val BACK_HALF_PRICE = 8
 
